@@ -1,5 +1,6 @@
 
 
+
 ### Olá eu sou o Pedro Henrique Loureiro 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-loureiro-2a2a501a7/)
 
@@ -19,7 +20,11 @@
       </div>
 
 
-      👨‍💻 Programador Web | 👨‍🎓 Desenvolvedor fullstack - Unipaulistana 3/4
+## Emprego Atual : 
+      👨‍💻 Programador Web | APEOESP - Sindicato dos Professores do Ensino Oficial do Estado de São Paulo
+      
+## Formação :       
+      👨‍🎓 Desenvolvedor fullstack - Unipaulistana 3/4
 
 
 ## Estudando : 
@@ -27,7 +32,5 @@
     <img align= "center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "/>
     <img align= "center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white "/>
     <img align= "center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "/>
-
-
 
 

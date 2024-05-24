@@ -24,7 +24,7 @@
       👨‍💻 Programador Web | APEOESP - Sindicato dos Professores do Ensino Oficial do Estado de São Paulo
       
 ## Formação :       
-      👨‍🎓 Desenvolvedor fullstack - Unipaulistana 3/4
+      👨‍🎓 Desenvolvedor fullstack - Unipaulistana 
 
 
 ## Estudando : 
